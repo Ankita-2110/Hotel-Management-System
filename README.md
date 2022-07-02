@@ -5,11 +5,11 @@ Developed project for Hotel Management System using Python language.
 
 Sample Output:
 
------------------------------------------------------
+
 ***************HOTEL MANAGEMENT SYSTEM***************
------------------------------------------------------
+
 | W E L C O M E    T O    H O T E l    L O T U S |
------------------------------------------------------
+
 1.Enter Customer Data :
 --------------------------------
 2.Enter To Display All Data :
