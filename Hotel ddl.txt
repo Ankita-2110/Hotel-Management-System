@@ -1,0 +1,12 @@
+CREATE TABLE Hotel (
+    Borrow_no      VARCHAR (10)  NOT NULL,
+    First_name     VARCHAR (40)  NOT NULL,
+    Middle_name    VARCHAR (40)  NOT NULL,
+    Last_name      VARCHAR (40)  NOT NULL,
+    Address        VARCHAR (100) NOT NULL,
+    Mobile_no      DOUBLE (50)   NOT NULL,
+    Cheak_in_date  INTEGER (30)  NOT NULL,
+    Cheak_out_date INTEGER (30)  NOT NULL,
+    Gender         VARCHAR (10)  NOT NULL,
+    Mail           VARCHAR (40) 
+);
